@@ -6,7 +6,7 @@ Now SketcherX can draw much more details of human face including various accesso
 
 ![sketcherx-ces-2023](https://github.com/AllenEdgarPoe/StableDiffusionVectorization/assets/43398106/adcef09a-77af-45a7-bdb6-bd5dbceb8108)
 
-ot sure if I can open the code in public...because of the company's policy..But I will Try! 
+Not sure if I can open the code in public...because of the company's policy..
 
 
 ---
