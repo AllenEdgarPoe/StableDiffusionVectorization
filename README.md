@@ -7,6 +7,13 @@ Now SketcherX can draw much more details of human face including various accesso
 ![sketcherx-ces-2023](https://github.com/AllenEdgarPoe/StableDiffusionVectorization/assets/43398106/adcef09a-77af-45a7-bdb6-bd5dbceb8108)
 
 Not sure if I can open the code in public...because of the company's policy..
+---
+### [2024-04] Updates : Vectorization using specific comic book style 
+![Picture4](https://github.com/AllenEdgarPoe/StableDiffusionVectorization/assets/43398106/4cb9d188-9179-4661-80e7-253188a1649b)
+![Picture3](https://github.com/AllenEdgarPoe/StableDiffusionVectorization/assets/43398106/d07a2948-d145-44f4-9ba6-a54eb669f21a)
+![Picture5](https://github.com/AllenEdgarPoe/StableDiffusionVectorization/assets/43398106/bad2c4bc-b3b2-4443-87b9-adf822e62bed)
+![Picture6](https://github.com/AllenEdgarPoe/StableDiffusionVectorization/assets/43398106/87c58edc-5435-4d37-a773-e7a690941173)
+
 
 
 ---
